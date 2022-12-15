@@ -5,4 +5,4 @@ esto es una prueba
 
 esto es una imagen
 
-! [meme]:(imagenes/meme.JPG)
+![meme]:(imagenes/meme.JPG)
